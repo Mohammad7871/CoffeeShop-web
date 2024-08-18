@@ -1,0 +1,15 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+@font-face {
+    font-family: Josefin;
+    src: url(./Fonts/Josefin_Sans/JosefinSans-Italic-variablesFont_wght.ttf);
+}
+@font-face {
+    font-family: Josefin2;
+    src: url(./Fonts/Josefin_Sans/JosefinSans-Italic-variablesFont_wght.ttf);
+}
+body{
+    
+}
